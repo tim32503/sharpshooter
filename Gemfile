@@ -2,4 +2,6 @@
 
 source 'https://rubygems.org'
 
+gem 'rmagick'
+gem 'rtesseract'
 gem 'watir'
