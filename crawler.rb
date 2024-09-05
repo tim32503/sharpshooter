@@ -3,7 +3,7 @@
 require 'watir'
 require 'rmagick'
 require 'rtesseract'
-require "open-uri"
+require 'open-uri'
 
 include Magick
 
